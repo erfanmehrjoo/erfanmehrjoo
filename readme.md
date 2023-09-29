@@ -21,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">erfan mehrjoo</a></b>
+                <b><a target="_blank" href="https://erfanmehrjoo.ir">erfan mehrjoo</a></b>
         </samp>
 </h3>
 
@@ -52,7 +52,7 @@
  <a href="https://instagram.com/mehrjooerfan" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/erfan.mehrjoo" target="_blank">
+ <a href="https://facebook.com/erfan.mehrjoo.7" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
