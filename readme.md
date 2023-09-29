@@ -101,8 +101,8 @@
 <br/>
 
 ## Top Open Source -
-[![To Do app with django](https://github-readme-stats.vercel.app/api/pin/?username=erfanmehrjoo&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/erfanmehrjoo/todo_app_with_django)
-[![Hacker news](https://github-readme-stats.vercel.app/api/pin/?username=erfanmehrjoo&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/erfanmehrjoo/hackernews)
+[![To Do app with django](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/erfanmehrjoo/todo_app_with_django)
+[![Hacker news](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/erfanmehrjoo/hackernews)
 [![study bud](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=erfanmehrjoo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/erfanmehrjoo/studubud)
 [![weather app](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=erfanmehrjoo.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/erfanmehrjoo/weatherapp)
 
